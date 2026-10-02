@@ -1,0 +1,10 @@
+imutils
+matplotlib
+numpy
+opencv_python
+scikit_learn
+tensorflow 
+cv2
+pandas
+
+
